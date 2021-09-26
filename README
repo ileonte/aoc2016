@@ -1,0 +1,8 @@
+Advent of Code 2016 - https://adventofcode.com/2016
+
+> git clone --recurse-submodules https://github.com/ileonte/aoc2016.git aoc2016
+> cd aoc2016
+> mkdir build_dir
+> cd build_dir
+> cmake .. -DCMAKE_BUILD_TYPE=Release
+> make
